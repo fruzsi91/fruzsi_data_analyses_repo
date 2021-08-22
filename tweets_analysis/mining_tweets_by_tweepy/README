@@ -1,1 +1,2 @@
-This script can fetch up-to-date tweets about specified keywords. However it is not a data-streaming, it is capable to collect large numbers of tweets with a proper timing.
+This script can fetch up-to-date tweets about specified keywords. 
+However, it is not a data streaming application, it can collect large numbers of tweets without any server connection issues if you use correct timing.
