@@ -1,0 +1,1 @@
+This script can fetche up-to-date tweets about specified key words. However it is not a data-streaming, it is capable to collect large numbers of tweets with a proper timing.
