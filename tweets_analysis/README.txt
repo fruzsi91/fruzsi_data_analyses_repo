@@ -1,1 +1,1 @@
-In this project, I am collecting tweets about some controversial topics like globalisation, migration, water scarcity. I am going to make some basic analyses with this data and also running NLP analysis using tweets text. 
+
